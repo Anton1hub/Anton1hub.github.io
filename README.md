@@ -1,7 +1,5 @@
-# Anton1hub.github.io
 
-<!DOCTYPE html>
-<html>
+<html >
     <head>
         <meta charset="utf-8">
         <title>Projet dérivé de "Projet : Blog"</title>
